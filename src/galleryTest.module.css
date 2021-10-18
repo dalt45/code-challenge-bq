@@ -1,0 +1,18 @@
+.container{
+    width: 100vw;
+    height: 90vh;
+    background-color: blueviolet;
+}
+
+.childrenContainer{
+    background-color: azure;
+    height: 200px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.testContainerStyles{
+    background-color: cadetblue;
+}
